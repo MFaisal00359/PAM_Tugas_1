@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="prodis">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Industri</item>
+        <!-- Tambahkan departemen lainnya sesuai kebutuhan -->
+    </string-array>
+
+</resources>
